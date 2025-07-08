@@ -1,10 +1,10 @@
-#Text Detection System
+# Text Detection System
 
 This project is a Python-based OCR (Optical Character Recognition) benchmarking system developed in Google Colab. It extracts text from images using multiple OCR engines — Tesseract, EasyOCR, and optionally AWS Textract — and compares their accuracy using Jaccard similarity.
 
 ---
 
-Features
+## Features
 
 - Supports three OCR engines:
   - 🧾 Tesseract (open-source)
@@ -17,7 +17,7 @@ Features
 
 ---
 
-Folder & File Structure
+## Folder & File Structure
 
 My Drive/
 └── TesseractVSEasyOCRVSAWSTextract/
